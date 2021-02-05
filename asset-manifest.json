@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactcal/static/css/main.4e39bed6.chunk.css",
-    "main.js": "/reactcal/static/js/main.ba248cf1.chunk.js",
-    "main.js.map": "/reactcal/static/js/main.ba248cf1.chunk.js.map",
+    "main.css": "/reactcal/static/css/main.201c6bc7.chunk.css",
+    "main.js": "/reactcal/static/js/main.1d53a494.chunk.js",
+    "main.js.map": "/reactcal/static/js/main.1d53a494.chunk.js.map",
     "runtime-main.js": "/reactcal/static/js/runtime-main.5ef390ff.js",
     "runtime-main.js.map": "/reactcal/static/js/runtime-main.5ef390ff.js.map",
     "static/js/2.ebbf81a4.chunk.js": "/reactcal/static/js/2.ebbf81a4.chunk.js",
     "static/js/2.ebbf81a4.chunk.js.map": "/reactcal/static/js/2.ebbf81a4.chunk.js.map",
     "index.html": "/reactcal/index.html",
-    "static/css/main.4e39bed6.chunk.css.map": "/reactcal/static/css/main.4e39bed6.chunk.css.map",
+    "static/css/main.201c6bc7.chunk.css.map": "/reactcal/static/css/main.201c6bc7.chunk.css.map",
     "static/js/2.ebbf81a4.chunk.js.LICENSE.txt": "/reactcal/static/js/2.ebbf81a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5ef390ff.js",
     "static/js/2.ebbf81a4.chunk.js",
-    "static/css/main.4e39bed6.chunk.css",
-    "static/js/main.ba248cf1.chunk.js"
+    "static/css/main.201c6bc7.chunk.css",
+    "static/js/main.1d53a494.chunk.js"
   ]
 }
